@@ -1,4 +1,4 @@
-# JWT Authorization
+# JWT Authentication
 
 - Creating Node.js authentication middleware
 - Using refresh tokens with JWT
