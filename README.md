@@ -21,3 +21,9 @@ npm i express jsonwebtoken dotenv
 ```bash
 npm i --save-dev nodemon
 ```
+for creating secret Token using terminal
+
+```bash
+node
+require('crypto').rendomBytes(64).toString('hex')
+```
